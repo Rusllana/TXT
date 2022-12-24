@@ -1,1 +1,10 @@
-
+ID: 1
+Invironment: Windows 10 Pro, Chrome v.108
+Title: Buttons [Sell] and [Buy] are hidden on the price widget of the trading instrument. Buttons appear when "hidden" is deleted  in the line of code "class="sharesName__price flex js_prices hidden" in Console
+STR: 1. Navigate to capital.com
+     2. Click section [Sitemap] in the footer
+     3. Click item [USD/RUB] / [EUR/RUB] in the block "Forex"
+Expected result: Buttons [Sell] and [Buy] are on the price widget of the trading instrument
+Actual rezult: Buttons [Sell] and [Buy] are hidden on the price widget of the trading instrument
+Attachment: link
+Author: Ruslana Kudelko
