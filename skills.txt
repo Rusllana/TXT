@@ -1,0 +1,5 @@
+Skill 1: Linux terminal
+Skill 2: Git
+Skill 3: API
+Skill 4: SQL
+Skill 5: Python
